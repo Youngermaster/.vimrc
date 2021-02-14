@@ -1,2 +1,3 @@
 # .vimrc
-This is my VIM configuration file
+
+This is my VIM configuration file.
