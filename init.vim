@@ -1,4 +1,3 @@
-
 " __________________________________________________________
 "|                        Settings                          |
 " __________________________________________________________
@@ -70,6 +69,8 @@ nnoremap <C-l> :call CocActionAsync('jumpDefinition')<CR>
 nmap <F8> :TagbarToggle<CR>
 
 :set completeopt-=preview " For No Previews
+
+:colorscheme nord
 
 let g:NERDTreeDirArrowExpandable="+"
 let g:NERDTreeDirArrowCollapsible="~"
