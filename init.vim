@@ -23,8 +23,8 @@ Plug 'https://github.com/vim-airline/vim-airline' " Status bar
 Plug 'https://github.com/lifepillar/pgsql.vim' " PSQL Pluging needs :SQLSetType pgsql.vim
 Plug 'https://github.com/ap/vim-css-color' " CSS Color Preview
 Plug 'https://github.com/rafi/awesome-vim-colorschemes' " Retro Scheme
-# ! NOTE 
-# * Make sure to do 'yarn' in the '~/.local/share/nvim/plugged/coc.nvim' folder
+" ! NOTE 
+" * Make sure to do 'yarn' in the '~/.local/share/nvim/plugged/coc.nvim' folder
 Plug 'https://github.com/neoclide/coc.nvim'  " Auto Completion
 Plug 'https://github.com/ryanoasis/vim-devicons' " Developer Icons
 Plug 'https://github.com/tc50cal/vim-terminal' " Vim Terminal
